@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b897275-d712-4d4a-808a-efa9ecfa7b60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repository" />
+        <option name="mavenHome" value="C:/dev/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\dev\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1YpGIBHkCRVXlHhnxuzNiih2lj3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop-order/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27471265" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laowang" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\SpringCloudShoppingMall\shop-order\src\main\resources" />
+      <recent name="F:\workspace\SpringCloudShoppingMall\shop-order\src\main\java\com\laowang" />
+      <recent name="F:\workspace\SpringCloudShoppingMall\shop-product\src\main\java\com\laowang" />
+      <recent name="F:\workspace\SpringCloudShoppingMall\shop-product\src\main\resources" />
+      <recent name="F:\workspace\SpringCloudShoppingMall" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SpringCloudShoppingMall" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SpringCloudShoppingMall" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laowang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laowang.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laowang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laowang.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laowang.ProductApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ProductApplication2" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.ProductApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProductApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13344051" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b897275-d712-4d4a-808a-efa9ecfa7b60" name="Default Changelist" comment="" />
+      <created>1583632039455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583632039455</updated>
+      <workItem from="1583632040926" duration="6558000" />
+      <workItem from="1583651951181" duration="369000" />
+      <workItem from="1583652349356" duration="1981000" />
+      <workItem from="1583654409582" duration="3006000" />
+      <workItem from="1583657508549" duration="3178000" />
+      <workItem from="1583660717071" duration="10632000" />
+      <workItem from="1583679161290" duration="11000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1512" y="185" key="#Project_Structure" timestamp="1583665036282">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1512" y="185" key="#Project_Structure/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583665036282" />
+    <state x="734" y="177" width="1165" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583681742285">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="734" y="177" width="1165" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583681742285" />
+    <state x="1085" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1583671008880">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1085" y="228" key="#com.intellij.ide.util.MemberChooser/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583671008880" />
+    <state x="1046" y="307" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583681698706">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1046" y="307" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583681698706" />
+    <state x="960" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583653466883">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="960" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583653466883" />
+    <state x="995" y="160" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583665469661">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="995" y="160" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583665469661" />
+    <state x="1060" y="212" key="FileChooserDialogImpl" timestamp="1583659065430">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="212" key="FileChooserDialogImpl/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583659065430" />
+    <state width="801" height="441" key="GridCell.Tab.0.bottom" timestamp="1583769392734">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="801" height="441" key="GridCell.Tab.0.bottom/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583769392734" />
+    <state width="801" height="441" key="GridCell.Tab.0.center" timestamp="1583769392734">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="801" height="441" key="GridCell.Tab.0.center/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583769392734" />
+    <state width="801" height="441" key="GridCell.Tab.0.left" timestamp="1583769392733">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="801" height="441" key="GridCell.Tab.0.left/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583769392733" />
+    <state width="801" height="441" key="GridCell.Tab.0.right" timestamp="1583769392734">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="801" height="441" key="GridCell.Tab.0.right/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583769392734" />
+    <state width="801" height="441" key="GridCell.Tab.1.bottom" timestamp="1583769392735">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="801" height="441" key="GridCell.Tab.1.bottom/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583769392735" />
+    <state width="801" height="441" key="GridCell.Tab.1.center" timestamp="1583769392734">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="801" height="441" key="GridCell.Tab.1.center/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583769392734" />
+    <state width="801" height="441" key="GridCell.Tab.1.left" timestamp="1583769392734">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="801" height="441" key="GridCell.Tab.1.left/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583769392734" />
+    <state width="801" height="441" key="GridCell.Tab.1.right" timestamp="1583769392734">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="801" height="441" key="GridCell.Tab.1.right/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583769392734" />
+    <state x="810" y="177" key="Maven.ArtifactSearchDialog" timestamp="1583678197986">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="810" y="177" key="Maven.ArtifactSearchDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583678197986" />
+    <state x="920" y="223" key="NewModule_or_Project.wizard" timestamp="1583633746985">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="920" y="223" key="NewModule_or_Project.wizard/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583633746985" />
+    <state x="1423" y="115" key="SettingsEditor" timestamp="1583678087555">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1423" y="115" key="SettingsEditor/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583678087555" />
+    <state x="1607" y="278" width="626" height="490" key="find.popup" timestamp="1583651052009">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1607" y="278" width="626" height="490" key="find.popup/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583651052009" />
+    <state x="654" y="224" key="new project wizard" timestamp="1583761992568">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="654" y="224" key="new project wizard/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1583761992568" />
+  </component>
+</project>
